@@ -15,11 +15,11 @@ I have experience in:
 - company wide license management
 
 **Things I love**
-My Hamsters
-Gaming (Genshin Impact, Apex Legends, Overwatch 2, Stardew Valley)
-Japanese food
-Singing
-Tarot readings
+- My Hamsters
+- Gaming (Genshin Impact, Apex Legends, Overwatch 2, Stardew Valley)
+- Japanese food
+- Singing
+- Tarot readings
 
 
 <h3 align="left">Languages and Tools:</h3>
