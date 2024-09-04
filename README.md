@@ -10,7 +10,7 @@ I have:
 - Diploma in Infocomm Security Management, Singapore Polytechnic
 
 I have experience in:
-- developing configuration benchmarks in accordance to policy and regulartory requirements
+- developing configuration benchmarks in accordance to policy and regulatory requirements
 - performing SSATs, analysing vulnerability reports (DAST/SAST/PT) to help stakeholders understand the risk profile of the systems
 - managing security risks for non-standard systems
 - managing a virtualized Wintel infrastructure with SQL Servers
