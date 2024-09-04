@@ -7,6 +7,7 @@
 I have:
 - Degree in Cyber Forensics, Information Security Management and Business and Information Systems, Murdoch University
 - Diploma in Infocomm Security Management, Singapore Polytechnic
+
 I have experience in:
 - developing configuration benchmarks in accordance to policy and regulartory requirements
 - performing SSATs, analysing vulnerability reports (DAST/SAST/PT) to help stakeholders understand the risk profile of the systems
